@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Jul 11 15:06:12 2025
+[*]
+[dumpfile] "D:\GitDemo\PWM\pwm.vcd"
+[dumpfile_mtime] "Fri Jul 11 15:04:54 2025"
+[dumpfile_size] 194533
+[savefile] "D:\GitDemo\PWM\pwm_gtkwave.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -139 -139
+*-21.502890 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@28
+testbench.rst
+testbench.clk
+@29
+testbench.out
+[pattern_trace] 1
+[pattern_trace] 0
