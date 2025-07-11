@@ -19,7 +19,7 @@ Implemented a Verilog Based PWM Generator with the following features:-
 > To gradually increase or decrease the brightness of a bulb by controlling the voltage level applied to it.
 <br>
 <br>
-- In speed control of DC motors: the speed of DC motors is directly proportional to voltage applied so by controlling the voltage we can achieve the desired speed.
+> In speed control of DC motors: the speed of DC motors is directly proportional to voltage applied so by controlling the voltage we can achieve the desired speed.
 <br>
 <br>
 4> The following ports are used in PWM Generator:-
