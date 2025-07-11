@@ -30,6 +30,7 @@ Implemented a Verilog Based PWM Generator with the following features:-
 <br>
 > out - output waveform.
 <br>
+<br>
 5> There are also some internal ports defined:
 <br>
 <br>
